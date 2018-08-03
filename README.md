@@ -1,2 +1,2 @@
 # hello-world
-it is my first time to use git, i am really exciting!
+it is my second time using git, its a real exciting experience!
